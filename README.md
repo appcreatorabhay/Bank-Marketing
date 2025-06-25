@@ -41,21 +41,8 @@ Campaign Data: Contact methods, outcomes, number of calls
 
 Economic Indicators: Timing, market conditions
 
-🧠 Machine Learning Models Evaluated
-Model	Accuracy (%)	Precision	Recall	F1 Score
-LightGBM	90.67	0.6512	0.4876	0.5577
-Stacking Classifier	90.63	0.6514	0.4812	0.5535
-XGBoost	90.55	0.6418	0.4895	0.5554
-Random Forest	90.48	0.6808	0.3969	0.5014
-Gradient Boosting	90.36	0.6562	0.4216	0.5134
-Logistic Regression	90.16	0.6811	0.3465	0.4593
-Extra Trees	90.14	0.6799	0.3446	0.4574
-Bagging	89.82	0.6171	0.4106	0.4931
-AdaBoost	89.38	0.6202	0.3098	0.4132
-Support Vector Machine	89.34	0.6942	0.2081	0.3202
-Decision Tree	87.45	0.4806	0.4986	0.4894
-QDA	86.40	0.4362	0.4354	0.4358
-Naive Bayes	85.08	0.3927	0.4326	0.4117
+<img width="422" alt="image" src="https://github.com/user-attachments/assets/20e0173d-fad4-4d3a-9a72-c1e92d2ae2f4" />
+
 
 🔍 Methodology
 📌 1. Exploratory Data Analysis (EDA)
